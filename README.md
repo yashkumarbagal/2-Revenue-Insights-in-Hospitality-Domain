@@ -1,4 +1,4 @@
-# 2-Revenue-Insights-in-Hospitality-Domain
+# Revenue-Insights-in-Hospitality-Domain
 
 # 🏨 Power BI Projects – Hospitality Domain
 
