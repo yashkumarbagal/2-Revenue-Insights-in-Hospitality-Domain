@@ -11,7 +11,7 @@ This repository contains two Power BI dashboards in the Hospitality domain, insp
 Analyze hotel bookings, cancellations, and customer trends to improve revenue and service.
 
 ### 🔧 Tools Used
-- `Power BI` – For data visualization
+- `Power BI` – For data visualization 
 - `Excel / SQL` – For data cleaning
 - `Codebasics YouTube` – Tutorial inspiration
 
